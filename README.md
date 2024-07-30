@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas oa meu perfil 🐴
 
-<!--
-**Gui-1408/Gui-1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Trombini Stuchi
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScrpt
+- utilizo esse espaço para minha organização e compartilhando dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar em contato comigo 📧
+
+  00001118931397SP@al.educacao.sp.gov.br
+
+
+
+
+  ![]()
+  https://media1.tenor.com/m/O43bLT93_gEAAAAC/happy-food.gif
